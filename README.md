@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🔭 I’m system engineer with more that 10 years of experience on tier I & II in IT field, I'm  currently   pursuing to deep into the cloud and security services.
+🔭  I'm a System Engineer with more than 10 years of experience on tier I & II in IT field, I'm currently pursuing to deep into the cloud and security services.
 
-I'm so appassionate in a new technologies so I'm constantly seeking for new ways to improve and grow.
+🌱 I'm so appassionate in a new technologies so I'm constantly looking for new ways to improve and grow.
 
-* I'm studyng python,linux and Js.
+* I'm studying Python, Linux and Js.
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achyutghosh24/)
   
