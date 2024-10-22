@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🔭 I’m system engineer with more that 10 years of experience on tier I & II in IT field, I'm  currently   pursuing to deep into the cloud and security services.
+
+I'm so appassionate in a new technologies so I'm constantly seeking for new ways to improve and grow.
+
+* I,m studyng python,linux and Js.
 <!--
 **joamgreen/joamgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
