@@ -4,7 +4,7 @@
 
 I'm so appassionate in a new technologies so I'm constantly seeking for new ways to improve and grow.
 
-* I,m studyng python,linux and Js.
+* I'm studyng python,linux and Js.
 <!--
 **joamgreen/joamgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
